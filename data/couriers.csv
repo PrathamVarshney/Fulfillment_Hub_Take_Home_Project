@@ -1,0 +1,4 @@
+courier,pickup_time,pickup_status,orders_ready,contact
+FastTrack,12:00,Ready,3,+91 90000 11111
+ShipNow,15:00,Pending,2,+91 90000 22222
+QuickShip,18:00,Pending,1,+91 90000 33333

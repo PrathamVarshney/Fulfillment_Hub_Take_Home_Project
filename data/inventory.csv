@@ -1,0 +1,12 @@
+sku,product,variant,warehouse,available_qty,reorder_level
+SKU-101,Wireless Mouse,Black,Main,4,6
+SKU-101,Wireless Mouse,Black,Overflow,12,6
+SKU-102,Keyboard,White,Main,18,5
+SKU-102,Keyboard,White,Overflow,8,5
+SKU-103,USB-C Hub,7-in-1,Main,2,4
+SKU-103,USB-C Hub,7-in-1,Overflow,10,4
+SKU-104,Webcam,1080p,Main,8,3
+SKU-105,Laptop Stand,Aluminium,Main,6,3
+SKU-106,Headset,Black,Main,3,4
+SKU-107,HDMI Cable,2m,Main,15,5
+SKU-108,Power Bank,10000mAh,Main,7,4

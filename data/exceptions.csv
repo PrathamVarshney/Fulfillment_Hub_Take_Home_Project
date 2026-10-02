@@ -1,0 +1,5 @@
+exception_id,order_id,type,severity,description,owner,status,created_at,resolved_at
+EX-001,ORD-1006,Stock mismatch,High,Main warehouse has insufficient mouse stock for requested quantity.,Warehouse,Open,2026-09-26 09:15:00,
+EX-002,ORD-1003,Deadline risk,High,Priority order is still in Picking close to same-day deadline.,Office,Open,2026-09-26 09:20:00,
+EX-003,ORD-1005,Staging check,Medium,Box staged; verify courier scan before pickup.,Warehouse,Open,2026-09-26 09:45:00,
+EX-004,ORD-1008,Courier handover,Low,Courier scan received; no action required.,Office,Resolved,2026-09-26 10:35:00,2026-09-26 10:40:00
